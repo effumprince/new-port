@@ -57,6 +57,7 @@ width: 100%;
 }
     .aboutwork p{
     margin-left: 5px;
+        font-size: 14px;
 }
 
 .skill{
@@ -122,6 +123,7 @@ footer{
 
 .aboutwork p{
     margin-left: 10px;
+    font-size: 14px;
 }
 
 .skill{
