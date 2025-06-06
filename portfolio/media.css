@@ -365,6 +365,10 @@ width: 240px;
     .projects{
         height: auto;
     }
+
+    footer{
+        height: auto;
+    }
 }
 
 
