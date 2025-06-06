@@ -191,6 +191,9 @@ font-size: 16px;
 .services{
     width: 90%;
 }
+    .services p{
+    line-height: 30px;
+}
 
 .projects{
     height: auto;
@@ -245,7 +248,9 @@ footer{
 .services{
     width: 90%;
 }
-
+.services p{
+    line-height: 30px;
+}
 .projects{
     height: auto;
 }
@@ -276,6 +281,10 @@ footer{
         width: 50%;
     }
 
+
+    .services p{
+    line-height: 30px;
+}
     .projects{
         height: auto;
     }
