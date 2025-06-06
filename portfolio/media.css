@@ -1,0 +1,444 @@
+@media screen and (max-width: 320px){
+body{
+    width: 100%;
+}
+    nav{
+        width:100%;
+        text-align: center;
+    }
+
+    nav ul li{
+        text-align: center;
+    }
+
+.content{
+    height: 150vh;
+width: 100%;
+}
+    .hero p{
+    margin-left: 10px;
+}
+.hero h1{
+    margin-left: 10px;
+}
+
+
+.heroimg{
+    width: 250px;
+    height: 250px;
+    margin-top: 0px;
+}
+
+.heroimg img{
+    width: 250px;
+    height: 250px;
+    margin-top: 0px;
+    
+}
+    .btn{
+    margin-left: 10px;
+}
+
+.about{
+    height: 170vh;
+    width: 100%;
+}
+
+.abimg{
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+}
+
+.abimg img{
+    width: 250px;
+    height: 250px;
+    
+}
+    .aboutwork p{
+    margin-left: 5px;
+}
+
+.skill{
+    height: 220vh;
+    width: 100%;
+}
+
+.serve{
+    flex-direction: column;
+}
+
+.services{
+    width: 90%;
+    margin-left: 10px;
+}
+
+    .projects{
+    height: 390vh;
+    width: 100%;
+}
+
+.procontanier{
+    width: 90%;
+  
+}
+.procontanier img{
+    width: 100%;
+    height: 8%;
+}
+.procontanier p{
+    font-size: 12px;
+}
+
+
+footer{
+    height: 150vh;
+    width: 100%;
+}
+
+
+
+}
+
+@media (min-width: 321px) and (max-width: 375px){
+    .content{
+        height: 130vh;
+    }
+
+    .hero {
+        margin-left: 10px;
+    }
+
+    .hero .p2{
+        font-size: 14.5px;
+        line-height: px;
+       
+}
+
+.about{
+    height: 170vh;
+    margin-left: ;
+}
+
+.aboutwork p{
+    margin-left: 10px;
+}
+
+.skill{
+    height: 230vh;
+}
+
+.services{
+    width: 90%;
+}
+
+
+.projects{
+    height: 380vh;
+}
+
+.procontanier{
+    width: 90%;
+}
+
+.procontanier img{
+    width: 100%;
+}
+
+.procontanier p{
+    font-size: 14px;
+}
+
+footer{
+    height: 150vh;
+}
+}
+
+@media (min-width:376px) and (max-width: 426px){
+
+.content{
+    height: 130vh;
+}
+
+.hero{
+    margin-left: 20px;
+
+}
+
+.hero .p2{
+font-size: 16px;
+}
+
+
+.about{
+    height: 200vh;
+}
+
+.about h1{
+    margin-bottom: 20px;
+}
+
+.aboutwork p{
+    margin-left: 20px;
+    
+}
+
+.skill{
+    height: 230vh;
+}
+
+
+.services{
+    width: 90%;
+}
+
+.projects{
+    height: 380vh;
+}
+
+.procontanier{
+    width: 90%;
+  
+}
+.procontanier img{
+    width: 100%;
+    height: 8%;
+}
+.procontanier p{
+    font-size: 12px;
+}
+
+
+footer{
+    height: 150vh;
+}
+
+
+
+}
+
+
+@media (min-width:427px) and (max-width: 531px){
+.content{
+    height: 133vh;
+}
+
+.about {
+    height: 170vh;
+}
+
+.hero .p2{
+    line-height: 35px;
+}
+
+.aboutwork p{
+    margin-left: 5px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+
+.skill{
+    height: 230vh;
+}
+
+.services{
+    width: 90%;
+}
+
+.projects{
+    height: 380vh;
+}
+
+footer{
+    height: 83vh;
+}
+
+
+}
+
+
+@media (min-width: 532px) and (max-width: 768px ){
+    .content{
+        height: 140vh;
+    }
+
+
+    .about{
+        height: auto;
+    }
+    .skill{
+        height: 220vh;
+    }
+
+    .services{
+    
+        width: 50%;
+    }
+
+    .projects{
+        height: 380vh;
+    }
+
+    footer{
+        height: 80vh;
+    }
+}
+
+
+
+@media (min-width: 769px) and (max-width: 850px){
+    .content{
+        height: auto;
+    }
+
+    .about{
+        height: auto;
+    }
+.skill{
+    height: 240vh;
+}
+    .services{
+        width: 50%;
+    }
+
+    .services p b{
+        font-size: 30px;
+    }
+
+    .services p{
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+
+    .projects{
+        height: 250vh;
+        margin-bottom: 20px;
+    }
+
+    footer{
+        height: 130vh;
+    }
+}
+
+
+@media (min-width: 851px) and (max-width: 1024px){
+    .content{
+        height: 80vh;
+    }
+
+    .about{
+        height: auto;
+    }
+
+    .abimg{
+        height: 240px;
+        width: 240px;
+    }
+
+    .abimg img{
+height: 240px;
+width: 240px;
+    }
+
+    .skill{
+        height: 130vh;
+    }
+
+
+    .services{
+        height: 50vh;
+        width: 30vw;
+    }
+
+    .services p b{
+        font-size: 25px;
+    }
+
+    .services p{
+        line-height: 30px;
+        font-size: 18px;
+    }
+
+
+    .projects{
+        height: 250vh;
+    }
+}
+
+
+@media (min-width: 2000px) and (max-width: 2560px){
+    .hero h1{
+        font-size: 80px;
+    }
+    .hero .p1{
+        font-size: 50px;
+    }
+
+    .hero .p2{
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+
+    .hero .first,
+    .hero .second{
+        height: 70px;
+        width: 170px;
+    }
+
+
+    .hero .first a,
+    .hero .second a{
+        font-size: 25px;
+    }
+
+
+    .heroimg{
+        height: 500px;
+        width: 500px;
+    }
+
+    .heroimg img{
+        height: 500px;
+        width: 500px;
+    }
+
+    .about h1{
+        font-size: 80px;
+    }
+
+    .abimg{
+        height: 500px;
+        width: 500px;
+    }
+
+    .abimg img{
+        height: 500px;
+        width: 500px;
+    }
+
+    .aboutwork p{
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .skill h1{
+        font-size: 80px;
+    }
+
+    .services{
+        height: 55vh;
+        width: 20vw;
+    }
+
+    .services p b{
+        font-size: 30px;
+    }
+
+    .services p{
+        font-size: 25px;
+        line-height: 30px;
+    }
+}
