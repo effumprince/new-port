@@ -438,6 +438,29 @@ footer{
     }
 }
 
+@media (min-width: 1024px) and (max-width: 1250px){
+   .content{
+        height: auto;
+    }
+
+    .about{
+        height: auto;
+    }
+    .skill{
+        height: auto;
+    }
+     .services{
+        height: auto;
+        width: auto;
+    }
+     .projects{
+        height: auto;
+    }
+    footer{
+    height: auto;
+}
+}
+
 
 @media (min-width: 2000px) and (max-width: 2560px){
     .hero h1{
