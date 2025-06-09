@@ -312,6 +312,7 @@ footer{
 
 .services{
     width: 90%;
+    height: auto;
 }
 
 .projects{
@@ -340,7 +341,7 @@ footer{
     }
 
     .services{
-    
+    height: auto;
         width: 50%;
     }
 
@@ -368,6 +369,7 @@ footer{
 }
     .services{
         width: 50%;
+        height: auto;
     }
 
     .services p b{
@@ -416,7 +418,7 @@ width: 240px;
 
 
     .services{
-        height: 50vh;
+        height: auto;
         width: 30vw;
     }
 
