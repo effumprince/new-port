@@ -71,6 +71,11 @@ width: 100%;
 .services{
     width: 90%;
     margin-left: 10px;
+    height: auto;
+}
+
+.services p{
+    margin-bottom: 20px;
 }
 
     .projects{
@@ -92,7 +97,7 @@ width: 100%;
 
 
 footer{
-    height: 150vh;
+    height: auto;
     width: 100%;
 }
 
@@ -132,6 +137,10 @@ footer{
 
 .services{
     width: 90%;
+    height: auto;
+}
+.services p{
+    margin-bottom: 20px;
 }
 
 
@@ -188,8 +197,11 @@ footer{
 
 .services{
     width: 90%;
+    height: auto;
 }
-
+.services p{
+    margin-bottom: 20px;
+}
 
 .projects{
     height: auto;
@@ -249,10 +261,13 @@ font-size: 14px;
 
 .services{
     width: 90%;
+    height: auto;
 }
+
 
 .services p{
     line-height: 30px;
+    margin-bottom: 20px;
 }
 .projects{
     height: auto;
@@ -314,6 +329,9 @@ footer{
     width: 90%;
     height: auto;
 }
+.services p{
+    margin-bottom: 20px;
+}
 
 .projects{
     height: auto;
@@ -343,6 +361,10 @@ footer{
     .services{
     height: auto;
         width: 50%;
+    }
+
+    .services p{
+        margin-bottom: 20px;
     }
 
     .projects{
@@ -379,6 +401,7 @@ footer{
     .services p{
         font-size: 20px;
         line-height: 40px;
+        margin-bottom: 20px;
     }
 
 
@@ -429,6 +452,7 @@ width: 240px;
     .services p{
         line-height: 30px;
         font-size: 18px;
+        margin-bottom: 20px;
 
     }
 footer{
@@ -455,10 +479,16 @@ footer{
         height: auto;
         width: auto;
     }
+
+    .services p{
+        margin-bottom: 20px;
+    }
      .projects{
         height: auto;
          
     }
+
+    
     footer{
     height: auto;
 }
@@ -537,5 +567,9 @@ footer{
     .services p{
         font-size: 25px;
         line-height: 30px;
+    }
+
+    footer{
+        height: auto;
     }
 }
